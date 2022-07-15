@@ -15,7 +15,8 @@ pageEncoding="ISO-8859-1" %>
     />
 
     <link rel="stylesheet" href="fonts/icomoon/style.css" />
-
+    
+	
     <link rel="stylesheet" href="css/owl.carousel.min.css" />
 
     <!-- Bootstrap CSS -->
